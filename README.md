@@ -20,5 +20,5 @@ ghci>9/2 (does usual division)
 ghci>9 `div` 2 (does int division)
 4
 ```
- you can only use div on whole number types like Int and Integer, and you can only use / on decimal types like Double. Here’s an example of what happens if you try to mix them up:
+ you can only use div on whole number types like Int and Integer, and you can only use / on decimal types like Double.
 
